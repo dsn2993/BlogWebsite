@@ -1,0 +1,13 @@
+/* This is our utility file. The common work style will be here*/
+
+/* class content width */
+.max-width-1{
+    width: 80vw;
+}
+
+.margin-auto{
+    margin: auto;
+}
+
+
+

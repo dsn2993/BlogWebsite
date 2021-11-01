@@ -1,0 +1,10 @@
+.home-articles{
+    background-color:cadetblue;
+}
+
+.home-article{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
